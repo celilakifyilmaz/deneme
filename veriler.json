@@ -1,14 +1,12 @@
-{"menu":[
-    	{ 
-    	"yemek_id":1,
-	"yemek_adı":"kebap 1",
-	"yemek_info":"acılı 1",
-	"yemek_tur":"",
-	"yemek_pisirmesure":"",
-	"yemek_hazırlama":"",
-	"yemek_kisisayısı":"",
-	"yemek_resmi":"",
-	"yemek_malzemeler":""
-	},
-    
-]}
+[
+  {
+    "id": 1,
+    "title": "Merhaba Dünya",
+    "content": "Bu, JSON dosyasından çekilen bir içeriktir."
+  },
+  {
+    "id": 2,
+    "title": "İkinci Başlık",
+    "content": "İkinci içerik buraya gelecek."
+  }
+]
